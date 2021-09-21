@@ -1,0 +1,5 @@
+﻿  RA_RV3.cpp
+C:\Users\Gasper\Documents\Development\R_IT\2_letnik\RA\VajeRA\RA_RV3\RA_RV3.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gasper\Documents\Development\R_IT\2_letnik\RA\VajeRA\RA_RV3\RA_RV3.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gasper\Documents\Development\R_IT\2_letnik\RA\VajeRA\RA_RV3\RA_RV3.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  RA_RV3.vcxproj -> C:\Users\Gasper\Documents\Development\R_IT\2_letnik\RA\VajeRA\RA_RV3\Debug\RA_RV3.exe

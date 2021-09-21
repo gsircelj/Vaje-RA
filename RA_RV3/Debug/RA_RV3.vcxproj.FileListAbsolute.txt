@@ -1,0 +1,3 @@
+C:\Users\Gasper\Documents\Development\R_IT\2. letnik\RA\VajeRA\RA_RV3\Debug\RA_RV3.exe
+C:\Users\Gasper\Documents\Development\R_IT\2. letnik\RA\VajeRA\RA_RV3\Debug\RA_RV3.pdb
+C:\Users\Gasper\Documents\Development\R_IT\2_letnik\RA\VajeRA\RA_RV3\Debug\RA_RV3.exe
