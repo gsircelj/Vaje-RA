@@ -1,0 +1,51 @@
+$ nasm -f elf64 RV09-ASM_array.asm -o RV09-ASM_array.o -g -F dwarf && gcc RV09-ASM_array.o -lc -fPIC -no-pie -g; gdb ./a.out
+GNU gdb (Ubuntu 8.1-0ubuntu3.1) 8.1.0.20180409-git
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from ./a.out...done.
+(gdb) break obracaj
+Breakpoint 1 at 0x4005b4: file RV09-ASM_array.asm, line 56.
+(gdb) start
+Temporary breakpoint 2 at 0x400540: file RV09-ASM_array.asm, line 16.
+Starting program: /disk2/ales/PedagoskoDelo/1stopnja/RA/egradiva/RA-vaje-SI/zbirka_vaj_in_nalog/resitve-datoteke/a.out 
+
+Temporary breakpoint 2, main () at RV09-ASM_array.asm:16
+16      push rbp              ; shranimo register rbp
+(gdb) continue
+Continuing.
+Vnesite besedilo: 12345
+
+Breakpoint 1, obracaj () at RV09-ASM_array.asm:56
+56      cmp rsi, rdi          ; preverimo lokaciji branja/pisanja: če
+(gdb) print (char[1024])besedilo
+$1 = "12345", '\000' <repeats 1018 times>
+(gdb) continue
+Continuing.
+
+Breakpoint 1, obracaj () at RV09-ASM_array.asm:56
+56      cmp rsi, rdi          ; preverimo lokaciji branja/pisanja: če
+(gdb) print (char[1024])besedilo
+$2 = "52341", '\000' <repeats 1018 times>
+(gdb) continue
+Continuing.
+
+Breakpoint 1, obracaj () at RV09-ASM_array.asm:56
+56      cmp rsi, rdi          ; preverimo lokaciji branja/pisanja: če
+(gdb) print (char[1024])besedilo
+$3 = "54321", '\000' <repeats 1018 times>
+(gdb) continue
+Continuing.
+Obrnjeno: 54321
+[Inferior 1 (process 26762) exited normally]
+(gdb) quit
