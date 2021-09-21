@@ -1,0 +1,29 @@
+- ima matična plošča dma krmilnika ali ima procesor?
+	- 
+
+- kako se priklopi gk na mati
+	- rabimo eno PCIe 16x režo
+	- ustrezen prostor za namestitev
+	- Napajanje z 8- in 6-pinskim priključkom PCIe Graphics (PEG)
+	- CPU in RAM, ki sta dovolj hitra
+
+- kako graf priklopimo na napajalnik
+	- Povezava PCI-Express - PCI-E 3.0
+	- dodatnih 
+
+- max pomnilnik ki ga lahko proce nasl
+	- max pomnilnik: 128 GB
+	- tip pomnilnika: DDR4-2666
+
+- max pomn ki ga lahko spravim na matično
+	- Max memory Capacity: 64 GB * 4 = 
+
+
+
+- kako priklopimo grafično z napajalnikom in matično (koliko toka je potrebno)
+	- za delovanje grafične je potrebno max 75W
+- kako priklopimo procesor z napajalnikom in matično (koliko toka je potrebno)
+	- procesor potrebuje 65W za minimalno delovanje in gre do okoli 100W
+	- procesor se kompatibilen z matično, LGA 1151
+
+- 24 pinski priklop ATX 24bin

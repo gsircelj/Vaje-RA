@@ -1,0 +1,100 @@
+RV01: computer
+
+1. Seznam komponent računalnika
+Avdio produkcija v podjetju, ki se ukvarja z razvojem računalniških iger. Produkcija stranskih svokov / soundtrack-ov za razvijajočo se igro.
+Celotna cena: 4016,24€
+
+Računalnik: Dell XPS 8930
+ - cena: 1.176,93€
+ - opis: šestjedrni procesor 8. generacije Intel Core i7–8700, SSD diska kapacitete 256 GB, 16 GB RAM, trdi disk s kapaciteto 2 TB. 
+ - utemeljitev: Računalnik je dovolj zmogljiv za močne avdio procese, ki se bodo na njem izvajali, prav tako ne bo problem z shrambo.
+ - kje sem zasledil komponento: https://www.musicradar.com/news/best-pc-for-music-production
+ - vir nakupa: https://www.amazon.com/Dell-XPS-8930-Tower-Desktop/dp/B077JDVBR3
+
+Monitor: AOC 24B1H
+ - cena: 98,27€ x 2 = 196,54€
+ - opis: diagonala 59,9 cm (23,63''), širok vidni kot 178°, ločljivost Full HD (1920 × 1080). En monitor bomo rabili za DAW, drugega za mixer ali virtualne inštrumente/efekte
+ - kje sem zasledil komponento: https://bestofmonitor.com/monitors-for-music-production/
+ - vir nakupa: https://www.mimovrste.com/led-monitorji/dell-lmonitor-u2415
+
+Miška: Logitech M590 Muliti-Device Silent
+ - cena: 48,87€
+ - opis: Tiha brezžična miška, ki ne bo motila produkcijskega procesa. Miška se lepo prilega dlani, tako da bo zadostovala za proračun.
+ - vir nakupa: https://www.mimovrste.com/miske/logitech-miska-m590-multi-device-silent
+
+Tipkovnica: Logitech brezžična tipkovnica K270
+ - cena: 37,90€
+ - utemeljitev: tipkovnice se pri produkciji ne bo uporabljajo veliko, zato ni treba veliko vložiti v to komponento
+ - vir nakupa: https://www.mimovrste.com/tipkovnice/logitech-brezzicna-tipkovnica-k270-us-slo?src=bestsellers
+
+MIDI: M-Audio Hammer 88
+ - cena: 448.00€
+ - opis: 88 tehtanih tipk, občutljivih na hitrost, ki da naravni občutek klavirja, ki natančno reproducira vse tanke odtenke nastopa
+ - utemeljitev: MIDI kontroler bo zadostoval za potrebe producenta in ekipe razvijalcev
+ - kje sem zasledil komponento: https://consordini.com/best-midi-keyboard/
+ - vir nakupa: https://www.muziker.si/m-audio-hammer-88
+
+Studijski zvočniki: KRK Rokit RP7 G4
+ - cena: 186.00€/zvočnik. Rabimo dva zvočnika za stereo zvok. 372.00€
+ - opis: Studijski monitor s 7 "LF gonilnikom, 1" HF gonilnikom, korekcijo prostora, LCD Visual EQ, omejevalnikom Brickwall in akustičnimi blazinicami iz pene
+ - utemeljitev: za ceno 372€ za dva monitorja, bomo težko dobili kvalitetnejši produkt od tega. So standard v svetu avdio produkcije
+ - kje sem zasledil komponento: https://www.musicradar.com/news/the-best-studio-monitors-and-monitor-speakers
+ - vir nakupa: https://www.audiopro.si/en/32322-30542188.html
+
+ Studijske slušalke: Audio-Technica ATH-R70X
+ - cena: 295.00€
+ - utemeljitev: Profesionalne slušalke z odprtim hrbtom. Slušalke imajo posebej zasnovane gonilnike in zvočno prosojna ohišja iz aluminijaste satjaste mreže, ki zagotavljajo natančen in naraven odprt zvok
+ - kje sem zasledil komponento:  https://www.musicradar.com/reviews/tech/audio-technica-ath-r70x-633299
+ - vir nakupa: https://www.muziker.si/audio-technica-ath-r70x
+
+Avdio vmesnik: Focusrite Scarlett 2i2 3rd Gen
+ - cena: 142.00€
+ - opis: Dva kombinirana vhoda, dva linijska izhoda in izhod za slušalke z ločenim nadzorom glasnosti 
+ - utemeljitev: dva vhoda bosta zadostna, saj se bo večino snemanja izvajalo z virtualnimi inštrumenti
+ - vir nakupa: https://www.muziker.si/focusrite-scarlett-2i2-3rd-generation
+
+Programska oprema: Office Home & Business 2019
+ - cena: 269.00€
+ - opis: Vključuje popolnoma nameščene aplikacije vključno z: Word, Excel, PowerPoint, OnenoTe, Outlook
+ - utemeljitev: da bomo združljivi z ostalo ekipo, rabimo skupno okolje, kjer bomo delili dokumente in ideje
+ - vir nakupa: https://www.mimovrste.com/pisarniski-programi/microsoft-office-home-business-2019-slovenski
+
+DAW: Ableton Live 10
+ - cena: 349€
+ - opis: računalniški program za studijsko delo in nastope v živo
+ - utemeljitev: z programom dobimo še VST-je, ki bodo potrebni za produkcijo, ostale, ki niso priloženi, kupimo sami
+ - vir nakupa: https://www.ableton.com/en/shop/live/
+
+VST-ji: Xfer Records Serum, Native Instruments Kontakt, Klanghelm MJUC, Native Instruments Mod Pack
+ - cena: 189.00€, 399.00€, 24.00€, 69.00€ = 681.00€
+ - opis: različen nabor VST-jev. Vključeni so efekti, kompresor, sampler, synth...
+ - vir nakupa: https://xferrecords.com/products/serum, https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6/, https://klanghelm.com/contents/main.html, https://www.native-instruments.com/en/products/komplete/effects/effects-series-mod-pack/
+
+
+
+2. Seznam komponent mobilnega komponenta: Samsung Galaxy S20 Ultra 5G 512GB
+ - cena: 1.511,40€
+ - opis: 175 mm zaslon, 8K videoposnetki, 5G tehnologija, ločljivost zadnje kamere 108 MP poleg tega ima še 100-kratno super ločljivo povečavo, baterija s kapaciteto 5000 mAh, fast charging (hitro polnjenje) in wireless charging (brezžično polnjenje), pomnilnik velikosti 512GB, RAM 16 GB, OLED zaslon, Android 10, procesor 2.8 GHz Qualcomm Snapdragon 865
+ - kje sem zasledil komponento: https://www.t3.com/features/best-smartphone
+ - vir nakupa: https://www.shi.com/Product/39534396?EventID=f2c88871-9508-420e-b70c-3a2e420396f4
+
+Slovar
+MIDI: Musical Instrument Digital Interface - elektronski standardni protokol, s katerim lahko komunicirajo različne elektronske glasbene naprave
+5G: peta generacija tehnološkega standarda za širokopasovna celična omrežja
+8K: ločljivost zaslona s širino približno 8000 slikovnih pik
+MP: megapixel - milijonov slikovnih pik
+mAh: milliamp hour - enota, ki meri (električno) moč skozi čas
+OLED: organic light-emitting diode - organska svetleča dioda
+GHz: gigahertz - enota za frekvenco 
+AOC: Admiral Overseas Corporation - naziv podjetja
+SSD: Solid-state drive - disk brez gibljivih delov
+GB: gigabajt - količina podatkov
+RAM: Random Access Memory - bralno-pisalni pomnilnik
+TB: terabajt - količina podatkov
+HD: high definition - visoka ločljivost
+DAW: digital audio workstation - digitalna avdio delovna postaja
+LF gonilnik: low frequencies driver - gonilnik nizkih frekvenc
+HF gonilnik: high frequencies driver - gonilnik visokih frekvenc
+LCD: liquid crystal display - tekočekristalni zaslon
+EQ: equalizer - izenačevalnik
+VST: virtual studio technology - programi za glasbila v računalniku
